@@ -1,0 +1,10 @@
+product_id,segment,avg_monthly_revenue_usd,revenue_source,source,effective_from
+P01,Mass,4.00,Deposit margin and debit-card interchange (excludes monthly account fee),Finance team estimate,2023-01-01
+P01,Affluent,14.00,Deposit margin and debit-card interchange (excludes monthly account fee),Finance team estimate,2023-01-01
+P01,Private,40.00,Deposit margin and debit-card interchange (excludes monthly account fee),Finance team estimate,2023-01-01
+P02,Mass,3.00,Deposit margin on savings balances,Finance team estimate,2023-01-01
+P02,Affluent,12.00,Deposit margin on savings balances,Finance team estimate,2023-01-01
+P02,Private,45.00,Deposit margin on savings balances,Finance team estimate,2023-01-01
+P03,Mass,9.00,Card interest and merchant interchange,Finance team estimate,2023-01-01
+P03,Affluent,18.00,Card interest and merchant interchange,Finance team estimate,2023-01-01
+P03,Private,30.00,Card interest and merchant interchange,Finance team estimate,2023-01-01

@@ -1,0 +1,8 @@
+# Too large for GitHub; the zipped copy is committed instead
+01_raw_data/transactions.csv
+
+# Power BI and Office temporary files
+~$*
+*.tmp
+.DS_Store
+Thumbs.db

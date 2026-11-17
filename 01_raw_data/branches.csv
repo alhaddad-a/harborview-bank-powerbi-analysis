@@ -1,0 +1,26 @@
+branch_id,branch_name,city,region,opened_year
+BR001,Ashford Branch,Ashford,North,2010
+BR002,Brookline Branch,Brookline,North,1990
+BR003,Cedarport Branch,Cedarport,North,1985
+BR004,Dunmore Branch,Dunmore,North,2004
+BR005,Elmfield Branch,Elmfield,North,1995
+BR006,Fairhaven Branch,Fairhaven,South,1999
+BR007,Glenrock Branch,Glenrock,South,1987
+BR008,Hollowell Branch,Hollowell,South,1996
+BR009,Ironbridge Branch,Ironbridge,South,2004
+BR010,Juniper Bay Branch,Juniper Bay,South,1995
+BR011,Kingsmere Branch,Kingsmere,East,2009
+BR012,Lakeview Branch,Lakeview,East,2008
+BR013,Maplewood Branch,Maplewood,East,2006
+BR014,Northgate Branch,Northgate,East,2012
+BR015,Oakridge Branch,Oakridge,East,2006
+BR016,Pinecrest Branch,Pinecrest,West,1990
+BR017,Quarry Hill Branch,Quarry Hill,West,2010
+BR018,Riverside Branch,Riverside,West,2004
+BR019,Stonebrook Branch,Stonebrook,West,1987
+BR020,Thornbury Branch,Thornbury,West,1993
+BR021,Union City Branch,Union City,Central,1989
+BR022,Valemont Branch,Valemont,Central,2014
+BR023,Westfield Branch,Westfield,Central,2006
+BR024,Yarrow Branch,Yarrow,Central,2012
+BR025,Zephyr Point Branch,Zephyr Point,Central,1993

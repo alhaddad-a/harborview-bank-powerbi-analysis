@@ -1,0 +1,7 @@
+product_id,product_name,product_type
+P01,Everyday Checking,Deposit
+P02,Smart Savings,Deposit
+P03,Rewards Credit Card,Card
+L01,Personal Loan,Loan
+L02,Auto Loan,Loan
+L03,Home Mortgage,Loan
