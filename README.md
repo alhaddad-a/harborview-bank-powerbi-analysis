@@ -4,7 +4,7 @@ An end-to-end analysis of a retail bank's 2023 to 2025 performance: data cleanin
 
 ![Overview page](04_outputs/screenshots/01_overview.png)
 
-The full report is also available as a [PDF](04_outputs/Dashboard.pdf).
+Download the full six-page report as a [PDF](04_outputs/Dashboard.pdf), or open the [Power BI file](03_powerbi/Harborview_Bank.pbix).
 
 ## The business question
 
