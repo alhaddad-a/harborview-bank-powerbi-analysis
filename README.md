@@ -123,3 +123,7 @@ The `.pbit` template holds the report and model without the data. It is small, a
 ## Tools
 
 Power BI Desktop, Power Query (M), DAX.
+
+## License
+
+Released under the [MIT License](LICENSE). The dataset is simulated and contains no real customer information.
